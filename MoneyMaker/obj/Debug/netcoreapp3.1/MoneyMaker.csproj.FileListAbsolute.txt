@@ -1,0 +1,13 @@
+F:\Projects\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.exe
+F:\Projects\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.deps.json
+F:\Projects\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.runtimeconfig.json
+F:\Projects\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.runtimeconfig.dev.json
+F:\Projects\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.dll
+F:\Projects\MoneyMaker\bin\Debug\netcoreapp3.1\MoneyMaker.pdb
+F:\Projects\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.csprojAssemblyReference.cache
+F:\Projects\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.csproj.CoreCompileInputs.cache
+F:\Projects\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.AssemblyInfoInputs.cache
+F:\Projects\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.AssemblyInfo.cs
+F:\Projects\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.dll
+F:\Projects\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.pdb
+F:\Projects\MoneyMaker\obj\Debug\netcoreapp3.1\MoneyMaker.genruntimeconfig.cache
